@@ -1,0 +1,6 @@
+  {
+    "name": "Khan academy editor extension",
+    "version": "1.0",
+    "description": "A Khan Academy Extension to style the cs editor!",
+    "manifest_version": 2
+  }
